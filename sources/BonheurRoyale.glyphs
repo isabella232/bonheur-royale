@@ -1,5 +1,5 @@
 {
-.appVersion = "1356";
+.appVersion = "1342";
 copyright = "©2005-2021 Robert E. Leuschke";
 customParameters = (
 {
@@ -33437,6 +33437,94 @@ transform = "{0.86913, 0, 0, 0.85828, 47, 162}";
 );
 layerId = "5758FC1C-8DB2-4040-8B3F-38A5D3FE42F4";
 width = 370;
+}
+);
+},
+{
+color = 11;
+glyphname = atingacute;
+lastChange = "2021-05-31 17:02:37 +0000";
+layers = (
+{
+layerId = "5758FC1C-8DB2-4040-8B3F-38A5D3FE42F4";
+width = 600;
+}
+);
+},
+{
+color = 11;
+glyphname = Aeacute;
+lastChange = "2021-05-31 17:02:37 +0000";
+layers = (
+{
+layerId = "5758FC1C-8DB2-4040-8B3F-38A5D3FE42F4";
+width = 600;
+}
+);
+},
+{
+color = 11;
+glyphname = Odotmacron;
+lastChange = "2021-05-31 17:02:37 +0000";
+layers = (
+{
+layerId = "5758FC1C-8DB2-4040-8B3F-38A5D3FE42F4";
+width = 600;
+}
+);
+},
+{
+color = 11;
+glyphname = odotmacron;
+lastChange = "2021-05-31 17:02:37 +0000";
+layers = (
+{
+layerId = "5758FC1C-8DB2-4040-8B3F-38A5D3FE42F4";
+width = 600;
+}
+);
+},
+{
+color = 11;
+glyphname = Acircumflextlde;
+lastChange = "2021-05-31 17:02:37 +0000";
+layers = (
+{
+layerId = "5758FC1C-8DB2-4040-8B3F-38A5D3FE42F4";
+width = 600;
+}
+);
+},
+{
+color = 11;
+glyphname = acircumflextlde;
+lastChange = "2021-05-31 17:02:37 +0000";
+layers = (
+{
+layerId = "5758FC1C-8DB2-4040-8B3F-38A5D3FE42F4";
+width = 600;
+}
+);
+},
+{
+color = 11;
+glyphname = Acircumflexdotabelow;
+lastChange = "2021-05-31 17:02:37 +0000";
+layers = (
+{
+layerId = "5758FC1C-8DB2-4040-8B3F-38A5D3FE42F4";
+width = 600;
+}
+);
+},
+{
+color = 11;
+glyphname = acircumflexdotabelow;
+lastChange = "2021-05-31 17:02:37 +0000";
+layers = (
+{
+layerId = "5758FC1C-8DB2-4040-8B3F-38A5D3FE42F4";
+width = 600;
 }
 );
 }
