@@ -1,5 +1,12 @@
 {
 .appVersion = "1342";
+DisplayStrings = (
+"/nbspace",
+"aná/abreve/abreveacute/abrevedotbelow",
+"ABCDEFGHIJKLMN\012OPQRSTUVWXYZ\012",
+fgjpqy,
+dfhkl
+);
 copyright = "Copyright 2005-2021 The Bonheur Royale Project Authors (https://github.com/googlefonts/bonheur-royale)";
 customParameters = (
 {
@@ -114,41 +121,45 @@ name = liga;
 fontMaster = (
 {
 alignmentZones = (
-"{540, 1}",
-"{508, 30}",
-"{282, 36}",
-"{0, -27}"
+"{620, 15}",
+"{280, 15}",
+"{0, -10}",
+"{-326, -15}"
 );
 ascender = 605;
-capHeight = 641;
+capHeight = 620;
 customParameters = (
 {
 name = typoAscender;
-value = 605;
+value = 750;
 },
 {
 name = typoDescender;
-value = -332;
+value = -345;
 },
 {
 name = typoLineGap;
-value = 70;
-},
-{
-name = winAscent;
-value = 770;
-},
-{
-name = winDescent;
-value = 414;
+value = 0;
 },
 {
 name = hheaAscender;
-value = 605;
+value = 750;
 },
 {
 name = hheaDescender;
-value = -332;
+value = -345;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 832;
+},
+{
+name = winDescent;
+value = 440;
 },
 {
 name = strikeoutPosition;
@@ -167,7 +178,18 @@ name = underlineThickness;
 value = 15;
 }
 );
-descender = -332;
+descender = -326;
+guideLines = (
+{
+position = "{328, 620}";
+},
+{
+position = "{64, -326}";
+},
+{
+position = "{536, 605}";
+}
+);
 horizontalStems = (
 16,
 22
@@ -179,7 +201,7 @@ verticalStems = (
 );
 weightValue = 400;
 widthValue = 5;
-xHeight = 340;
+xHeight = 280;
 }
 );
 glyphs = (
@@ -194,6 +216,25 @@ width = 1000;
 note = .notdef;
 },
 {
+glyphname = CR;
+layers = (
+{
+layerId = "5758FC1C-8DB2-4040-8B3F-38A5D3FE42F4";
+width = 600;
+}
+);
+unicode = 000D;
+},
+{
+glyphname = NULL;
+layers = (
+{
+layerId = "5758FC1C-8DB2-4040-8B3F-38A5D3FE42F4";
+width = 600;
+}
+);
+},
+{
 glyphname = space;
 layers = (
 {
@@ -206,18 +247,20 @@ unicode = 0020;
 },
 {
 glyphname = nbspace;
+lastChange = "2021-06-29 21:36:00 +0000";
 layers = (
 {
 layerId = "5758FC1C-8DB2-4040-8B3F-38A5D3FE42F4";
-width = 36;
+width = 161;
 }
 );
+widthMetricsKey = space;
 note = nbspace;
 unicode = 00A0;
 },
 {
 glyphname = A;
-lastChange = "2020-01-05 07:17:54 +0000";
+lastChange = "2021-06-29 21:39:06 +0000";
 layers = (
 {
 anchors = (
@@ -407,7 +450,7 @@ nodes = (
 closed = 1;
 nodes = (
 "480 161 OFFCURVE",
-"445 84 OFFCURVE",
+"446 84 OFFCURVE",
 "446 2 CURVE SMOOTH",
 "446 -3 LINE",
 "355 6 OFFCURVE",
@@ -13240,6 +13283,7 @@ unicode = 010B;
 },
 {
 glyphname = d;
+lastChange = "2021-06-29 21:42:54 +0000";
 layers = (
 {
 hints = (
@@ -14370,6 +14414,7 @@ unicode = 0259;
 },
 {
 glyphname = f;
+lastChange = "2021-06-29 21:40:52 +0000";
 layers = (
 {
 hints = (
