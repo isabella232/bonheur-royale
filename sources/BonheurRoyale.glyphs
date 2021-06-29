@@ -1,7 +1,19 @@
 {
 .appVersion = "1342";
-copyright = "©2005-2021 Robert E. Leuschke";
+copyright = "Copyright 2005-2021 The Allison Project Authors (https://github.com/googlefonts/allison)";
 customParameters = (
+{
+name = licenseURL;
+value = "https://scripts.sil.org/OFL";
+},
+{
+name = license;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
+},
+{
+name = vendorID;
+value = GOOG;
+},
 {
 name = panose;
 value = (
@@ -18,28 +30,43 @@ value = (
 );
 },
 {
-name = unicodeRanges;
-value = (
-0,
-1
-);
-},
-{
 name = fsType;
 value = (
-2
 );
 },
 {
 name = blueScale;
 value = 0.02273;
+},
+{
+name = glyphOrder;
+value = (
+.notdef,
+CR,
+NULL,
+space,
+nbspace
+);
+},
+{
+name = "Use Typo Metrics";
+value = 1;
+},
+{
+name = Axes;
+value = (
+{
+Name = Weight;
+Tag = wght;
 }
 );
-date = "2013-05-01 04:18:08 +0000";
+}
+);
+date = "2021-06-29 20:51:27 +0000";
 designer = "Robert E. Leuschke";
-designerURL = "http://www.typesetit.com";
+designerURL = www.typesetit.com;
 disablesNiceNames = 1;
-familyName = BonheurRoyale;
+familyName = "Bonheur Royale";
 featurePrefixes = (
 {
 automatic = 1;
@@ -156,6 +183,38 @@ xHeight = 340;
 }
 );
 glyphs = (
+{
+glyphname = .notdef;
+layers = (
+{
+layerId = "5758FC1C-8DB2-4040-8B3F-38A5D3FE42F4";
+width = 1000;
+}
+);
+note = .notdef;
+},
+{
+glyphname = space;
+layers = (
+{
+layerId = "5758FC1C-8DB2-4040-8B3F-38A5D3FE42F4";
+width = 161;
+}
+);
+note = space;
+unicode = 0020;
+},
+{
+glyphname = nbspace;
+layers = (
+{
+layerId = "5758FC1C-8DB2-4040-8B3F-38A5D3FE42F4";
+width = 36;
+}
+);
+note = nbspace;
+unicode = 00A0;
+},
 {
 glyphname = A;
 lastChange = "2020-01-05 07:17:54 +0000";
@@ -25787,38 +25846,6 @@ width = 266;
 unicode = 27E9;
 },
 {
-glyphname = space;
-layers = (
-{
-layerId = "5758FC1C-8DB2-4040-8B3F-38A5D3FE42F4";
-width = 161;
-}
-);
-note = space;
-unicode = 0020;
-},
-{
-glyphname = nbspace;
-layers = (
-{
-layerId = "5758FC1C-8DB2-4040-8B3F-38A5D3FE42F4";
-width = 36;
-}
-);
-note = nbspace;
-unicode = 00A0;
-},
-{
-glyphname = .notdef;
-layers = (
-{
-layerId = "5758FC1C-8DB2-4040-8B3F-38A5D3FE42F4";
-width = 1000;
-}
-);
-note = .notdef;
-},
-{
 glyphname = Euro;
 layers = (
 {
@@ -33439,94 +33466,6 @@ layerId = "5758FC1C-8DB2-4040-8B3F-38A5D3FE42F4";
 width = 370;
 }
 );
-},
-{
-color = 11;
-glyphname = atingacute;
-lastChange = "2021-05-31 17:02:37 +0000";
-layers = (
-{
-layerId = "5758FC1C-8DB2-4040-8B3F-38A5D3FE42F4";
-width = 600;
-}
-);
-},
-{
-color = 11;
-glyphname = Aeacute;
-lastChange = "2021-05-31 17:02:37 +0000";
-layers = (
-{
-layerId = "5758FC1C-8DB2-4040-8B3F-38A5D3FE42F4";
-width = 600;
-}
-);
-},
-{
-color = 11;
-glyphname = Odotmacron;
-lastChange = "2021-05-31 17:02:37 +0000";
-layers = (
-{
-layerId = "5758FC1C-8DB2-4040-8B3F-38A5D3FE42F4";
-width = 600;
-}
-);
-},
-{
-color = 11;
-glyphname = odotmacron;
-lastChange = "2021-05-31 17:02:37 +0000";
-layers = (
-{
-layerId = "5758FC1C-8DB2-4040-8B3F-38A5D3FE42F4";
-width = 600;
-}
-);
-},
-{
-color = 11;
-glyphname = Acircumflextlde;
-lastChange = "2021-05-31 17:02:37 +0000";
-layers = (
-{
-layerId = "5758FC1C-8DB2-4040-8B3F-38A5D3FE42F4";
-width = 600;
-}
-);
-},
-{
-color = 11;
-glyphname = acircumflextlde;
-lastChange = "2021-05-31 17:02:37 +0000";
-layers = (
-{
-layerId = "5758FC1C-8DB2-4040-8B3F-38A5D3FE42F4";
-width = 600;
-}
-);
-},
-{
-color = 11;
-glyphname = Acircumflexdotabelow;
-lastChange = "2021-05-31 17:02:37 +0000";
-layers = (
-{
-layerId = "5758FC1C-8DB2-4040-8B3F-38A5D3FE42F4";
-width = 600;
-}
-);
-},
-{
-color = 11;
-glyphname = acircumflexdotabelow;
-lastChange = "2021-05-31 17:02:37 +0000";
-layers = (
-{
-layerId = "5758FC1C-8DB2-4040-8B3F-38A5D3FE42F4";
-width = 600;
-}
-);
 }
 );
 instances = (
@@ -33547,9 +33486,9 @@ instanceInterpolations = {
 name = Regular;
 }
 );
-manufacturer = "TypeSETit, LLC";
-manufacturerURL = "http://www.typesetit.com";
+manufacturer = "Robert E. Leuschke";
+manufacturerURL = www.typesetit.com;
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 2;
+versionMinor = 3;
 }
