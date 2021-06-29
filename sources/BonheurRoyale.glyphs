@@ -1,6 +1,6 @@
 {
 .appVersion = "1342";
-copyright = "Copyright 2005-2021 The Allison Project Authors (https://github.com/googlefonts/allison)";
+copyright = "Copyright 2005-2021 The Bonheur Royale Project Authors (https://github.com/googlefonts/bonheur-royale)";
 customParameters = (
 {
 name = licenseURL;
