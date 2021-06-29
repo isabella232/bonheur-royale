@@ -177,7 +177,7 @@ verticalStems = (
 29,
 43
 );
-weightValue = 500;
+weightValue = 400;
 widthValue = 5;
 xHeight = 340;
 }
