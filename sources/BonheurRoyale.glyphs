@@ -33470,16 +33470,7 @@ width = 370;
 );
 instances = (
 {
-customParameters = (
-{
-name = postscriptFullName;
-value = BonheurRoyale;
-},
-{
-name = postscriptFontName;
-value = BonheurRoyale;
-}
-);
+interpolationWeight = 400;
 instanceInterpolations = {
 "5758FC1C-8DB2-4040-8B3F-38A5D3FE42F4" = 1;
 };
