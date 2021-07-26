@@ -1,7 +1,10 @@
 {
 .appVersion = "1356";
 DisplayStrings = (
-"OÓ/Obreve Ô/Ocircumflexacute/Ocircumflexdotbelow/Ocircumflexgrave/Ocircumflexhookabove/Ocircumflextilde/Odblgrave/dieresiscomb.case/Odieresismacron/dotaccentcomb.case/Odotaccentmacron/Odotbelow Ò/Ohookabove/Ohorn/Ohungarumlaut/Oinvertedbreve/Omacron/Oogonek ØÕ/Otildemacron \012ó/obreve ô/ocircumflexacute/ocircumflexdotbelow/ocircumflexgrave/ocircumflexhookabove/ocircumflextilde/odblgrave ö/odieresismacron/odotaccentmacron/odotbelow ò/ohookabove o/ohorn/ohungarumlaut/oinvertedbreve/omacron/oogonek õ/otildemacron"
+"OÓ/Obreve Ô/Ocircumflexacute/Ocircumflexdotbelow/Ocircumflexgrave/Ocircumflexhookabove/Ocircumflextilde/Odblgrave/dieresiscomb.case/Odieresismacron/dotaccentcomb.case/Odotaccentmacron/Odotbelow Ò/Ohookabove/Ohorn/Ohungarumlaut/Oinvertedbreve/Omacron/Oogonek ØÕ/Otildemacron \012ó/obreve ô/ocircumflexacute/ocircumflexdotbelow/ocircumflexgrave/ocircumflexhookabove/ocircumflextilde/odblgrave ö/odieresismacron/odotaccentmacron/odotbelow ò/ohookabove o/ohorn/ohungarumlaut/oinvertedbreve/omacron/oogonek õ/otildemacron",
+"",
+"12/divisionslash///fraction 2",
+"-­"
 );
 classes = (
 {
@@ -18729,6 +18732,22 @@ width = 329;
 unicode = 2074;
 },
 {
+glyphname = fraction;
+lastChange = "2021-07-26 15:59:15 +0000";
+layers = (
+{
+components = (
+{
+name = divisionslash;
+}
+);
+layerId = "5758FC1C-8DB2-4040-8B3F-38A5D3FE42F4";
+width = 582;
+}
+);
+unicode = 2044;
+},
+{
 glyphname = onehalf;
 lastChange = "2021-07-02 22:27:58 +0000";
 layers = (
@@ -20243,6 +20262,43 @@ width = 245;
 );
 note = hyphen;
 unicode = 002D;
+},
+{
+glyphname = softhyphen;
+lastChange = "2021-07-26 16:00:48 +0000";
+layers = (
+{
+layerId = "5758FC1C-8DB2-4040-8B3F-38A5D3FE42F4";
+paths = (
+{
+closed = 1;
+nodes = (
+"68 137 OFFCURVE",
+"83 140 OFFCURVE",
+"99 142 CURVE SMOOTH",
+"133 145 OFFCURVE",
+"142 147 OFFCURVE",
+"177 147 CURVE SMOOTH",
+"179 147 OFFCURVE",
+"183 148 OFFCURVE",
+"183 151 CURVE SMOOTH",
+"183 161 OFFCURVE",
+"136 163 OFFCURVE",
+"123 163 CURVE SMOOTH",
+"96 163 OFFCURVE",
+"68 161 OFFCURVE",
+"41 158 CURVE",
+"40 157 LINE",
+"40 152 OFFCURVE",
+"46 137 OFFCURVE",
+"52 137 CURVE SMOOTH"
+);
+}
+);
+width = 203;
+}
+);
+unicode = 00AD;
 },
 {
 glyphname = endash;
