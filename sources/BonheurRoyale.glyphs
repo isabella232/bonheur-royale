@@ -1,10 +1,7 @@
 {
 .appVersion = "1356";
 DisplayStrings = (
-"OÓ/Obreve Ô/Ocircumflexacute/Ocircumflexdotbelow/Ocircumflexgrave/Ocircumflexhookabove/Ocircumflextilde/Odblgrave/dieresiscomb.case/Odieresismacron/dotaccentcomb.case/Odotaccentmacron/Odotbelow Ò/Ohookabove/Ohorn/Ohungarumlaut/Oinvertedbreve/Omacron/Oogonek ØÕ/Otildemacron \012ó/obreve ô/ocircumflexacute/ocircumflexdotbelow/ocircumflexgrave/ocircumflexhookabove/ocircumflextilde/odblgrave ö/odieresismacron/odotaccentmacron/odotbelow ò/ohookabove o/ohorn/ohungarumlaut/oinvertedbreve/omacron/oogonek õ/otildemacron",
-"/tcedilla Ç/Scedilla/Tcedilla/scedilla",
-"ph/acircumflexhookabove m",
-"/circumflexcomb_hookabovecomb"
+"OÓ/Obreve Ô/Ocircumflexacute/Ocircumflexdotbelow/Ocircumflexgrave/Ocircumflexhookabove/Ocircumflextilde/Odblgrave/dieresiscomb.case/Odieresismacron/dotaccentcomb.case/Odotaccentmacron/Odotbelow Ò/Ohookabove/Ohorn/Ohungarumlaut/Oinvertedbreve/Omacron/Oogonek ØÕ/Otildemacron \012ó/obreve ô/ocircumflexacute/ocircumflexdotbelow/ocircumflexgrave/ocircumflexhookabove/ocircumflextilde/odblgrave ö/odieresismacron/odotaccentmacron/odotbelow ò/ohookabove o/ohorn/ohungarumlaut/oinvertedbreve/omacron/oogonek õ/otildemacron"
 );
 classes = (
 {
@@ -21363,7 +21360,7 @@ unicode = 20A1;
 {
 color = 3;
 glyphname = currency;
-lastChange = "2021-07-22 18:30:39 +0000";
+lastChange = "2021-07-26 15:40:33 +0000";
 layers = (
 {
 background = {
@@ -21539,8 +21536,11 @@ nodes = (
 "85 492 OFFCURVE",
 "79 494 OFFCURVE",
 "74 494 CURVE SMOOTH",
-"62 494 OFFCURVE",
-"51 487 OFFCURVE",
+"64 494 OFFCURVE",
+"55 489 OFFCURVE",
+"55 482 CURVE SMOOTH",
+"55 481 OFFCURVE",
+"55 480 OFFCURVE",
 "56 478 CURVE",
 "82 458 OFFCURVE",
 "112 434 OFFCURVE",
