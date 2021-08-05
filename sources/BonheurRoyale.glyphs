@@ -22,7 +22,9 @@ DisplayStrings = (
 "/hungarumlautcomb.case",
 "/hbar rr",
 "th/uhorn/horncomb oo/horncomb/ohorn i",
-"/acutecomb.case"
+"/acutecomb.case",
+"/nbspace",
+"/space"
 );
 classes = (
 {
@@ -354,11 +356,11 @@ unicode = 0020;
 },
 {
 glyphname = nbspace;
-lastChange = "2021-07-30 13:09:52 +0000";
+lastChange = "2021-08-05 00:56:27 +0000";
 layers = (
 {
 layerId = "5758FC1C-8DB2-4040-8B3F-38A5D3FE42F4";
-width = 161;
+width = 319;
 }
 );
 note = nbspace;
