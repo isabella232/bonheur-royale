@@ -1,8 +1,7 @@
 {
-.appVersion = "1356";
+.appVersion = "1352";
 DisplayStrings = (
 "OÓ/Obreve Ô/Ocircumflexacute/Ocircumflexdotbelow/Ocircumflexgrave/Ocircumflexhookabove/Ocircumflextilde/Odblgrave/dieresiscomb.case/Odieresismacron/dotaccentcomb.case/Odotaccentmacron/Odotbelow Ò/Ohookabove/Ohorn/Ohungarumlaut/Oinvertedbreve/Omacron/Oogonek ØÕ/Otildemacron \012ó/obreve ô/ocircumflexacute/ocircumflexdotbelow/ocircumflexgrave/ocircumflexhookabove/ocircumflextilde/odblgrave ö/odieresismacron/odotaccentmacron/odotbelow ò/ohookabove o/ohorn/ohungarumlaut/oinvertedbreve/omacron/oogonek õ/otildemacron",
-"",
 "12/divisionslash///fraction 2",
 "-­",
 "á/abreve/abreveacute/abrevedotbelow/abrevegrave/abrevehookabove/abrevetilde/acaron â/acircumflexacute/acircumflexdotbelow/acircumflexgrave/acircumflexhookabove/acircumflextilde/adblgrave ä/adotbelow à/ahookabove/ainvertedbreve/amacron/aogonek å/aringacute ã",
@@ -162,11 +161,11 @@ capHeight = 620;
 customParameters = (
 {
 name = typoAscender;
-value = 750;
+value = 780;
 },
 {
 name = typoDescender;
-value = -345;
+value = -380;
 },
 {
 name = typoLineGap;
@@ -174,11 +173,11 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 750;
+value = 780;
 },
 {
 name = hheaDescender;
-value = -345;
+value = -380;
 },
 {
 name = hheaLineGap;
@@ -186,7 +185,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 832;
+value = 923;
 },
 {
 name = winDescent;
@@ -20724,8 +20723,9 @@ width = 266;
 unicode = 27E9;
 },
 {
+color = 0;
 glyphname = Euro;
-lastChange = "2021-08-05 00:46:28 +0000";
+lastChange = "2021-08-05 15:27:03 +0000";
 layers = (
 {
 layerId = "5758FC1C-8DB2-4040-8B3F-38A5D3FE42F4";
@@ -20849,8 +20849,9 @@ note = Euro;
 unicode = 20AC;
 },
 {
+color = 0;
 glyphname = cedi;
-lastChange = "2021-07-30 13:09:52 +0000";
+lastChange = "2021-08-05 15:27:03 +0000";
 layers = (
 {
 components = (
@@ -20869,8 +20870,9 @@ width = 682;
 unicode = 20B5;
 },
 {
+color = 0;
 glyphname = cent;
-lastChange = "2021-08-05 00:46:28 +0000";
+lastChange = "2021-08-05 15:27:03 +0000";
 layers = (
 {
 layerId = "5758FC1C-8DB2-4040-8B3F-38A5D3FE42F4";
@@ -20969,8 +20971,9 @@ note = cent;
 unicode = 00A2;
 },
 {
+color = 0;
 glyphname = colonsign;
-lastChange = "2021-07-30 13:09:52 +0000";
+lastChange = "2021-08-05 15:27:03 +0000";
 layers = (
 {
 components = (
@@ -20993,8 +20996,9 @@ width = 682;
 unicode = 20A1;
 },
 {
+color = 0;
 glyphname = currency;
-lastChange = "2021-08-05 00:46:28 +0000";
+lastChange = "2021-08-05 15:27:03 +0000";
 layers = (
 {
 background = {
@@ -21245,8 +21249,9 @@ note = currency;
 unicode = 00A4;
 },
 {
+color = 0;
 glyphname = dollar;
-lastChange = "2021-08-05 00:46:28 +0000";
+lastChange = "2021-08-05 15:27:03 +0000";
 layers = (
 {
 layerId = "5758FC1C-8DB2-4040-8B3F-38A5D3FE42F4";
@@ -21377,8 +21382,9 @@ note = dollar;
 unicode = 0024;
 },
 {
+color = 0;
 glyphname = dong;
-lastChange = "2021-07-30 13:09:52 +0000";
+lastChange = "2021-08-05 15:27:03 +0000";
 layers = (
 {
 components = (
@@ -21397,8 +21403,9 @@ width = 319;
 unicode = 20AB;
 },
 {
+color = 0;
 glyphname = florin;
-lastChange = "2021-08-05 00:46:28 +0000";
+lastChange = "2021-08-05 15:27:03 +0000";
 layers = (
 {
 layerId = "5758FC1C-8DB2-4040-8B3F-38A5D3FE42F4";
@@ -21486,8 +21493,9 @@ note = florin;
 unicode = 0192;
 },
 {
+color = 0;
 glyphname = franc;
-lastChange = "2021-07-30 13:09:52 +0000";
+lastChange = "2021-08-05 15:27:03 +0000";
 layers = (
 {
 components = (
@@ -21506,8 +21514,9 @@ width = 421;
 unicode = 20A3;
 },
 {
+color = 0;
 glyphname = guarani;
-lastChange = "2021-08-05 00:46:28 +0000";
+lastChange = "2021-08-05 15:27:03 +0000";
 layers = (
 {
 layerId = "5758FC1C-8DB2-4040-8B3F-38A5D3FE42F4";
@@ -21702,8 +21711,9 @@ width = 787;
 unicode = 20B2;
 },
 {
+color = 0;
 glyphname = kip;
-lastChange = "2021-07-30 13:09:52 +0000";
+lastChange = "2021-08-05 15:27:03 +0000";
 layers = (
 {
 components = (
@@ -21722,8 +21732,9 @@ width = 719;
 unicode = 20AD;
 },
 {
+color = 0;
 glyphname = lira;
-lastChange = "2021-08-05 00:46:28 +0000";
+lastChange = "2021-08-05 15:27:03 +0000";
 layers = (
 {
 layerId = "5758FC1C-8DB2-4040-8B3F-38A5D3FE42F4";
@@ -21900,8 +21911,9 @@ width = 613;
 unicode = 20A4;
 },
 {
+color = 0;
 glyphname = liraTurkish;
-lastChange = "2021-08-05 00:46:28 +0000";
+lastChange = "2021-08-05 15:27:03 +0000";
 layers = (
 {
 layerId = "5758FC1C-8DB2-4040-8B3F-38A5D3FE42F4";
@@ -22052,8 +22064,9 @@ width = 421;
 unicode = 20BA;
 },
 {
+color = 0;
 glyphname = manat;
-lastChange = "2021-08-05 00:46:28 +0000";
+lastChange = "2021-08-05 15:27:03 +0000";
 layers = (
 {
 layerId = "5758FC1C-8DB2-4040-8B3F-38A5D3FE42F4";
@@ -22160,8 +22173,9 @@ width = 528;
 unicode = 20BC;
 },
 {
+color = 0;
 glyphname = naira;
-lastChange = "2021-07-30 13:09:52 +0000";
+lastChange = "2021-08-05 15:27:03 +0000";
 layers = (
 {
 components = (
@@ -22184,8 +22198,9 @@ width = 736;
 unicode = 20A6;
 },
 {
+color = 0;
 glyphname = peseta;
-lastChange = "2021-08-05 00:46:28 +0000";
+lastChange = "2021-08-05 15:27:03 +0000";
 layers = (
 {
 background = {
@@ -22378,8 +22393,9 @@ width = 671;
 unicode = 20A7;
 },
 {
+color = 0;
 glyphname = peso;
-lastChange = "2021-08-05 00:46:28 +0000";
+lastChange = "2021-08-05 15:27:03 +0000";
 layers = (
 {
 layerId = "5758FC1C-8DB2-4040-8B3F-38A5D3FE42F4";
@@ -22570,8 +22586,9 @@ width = 671;
 unicode = 20B1;
 },
 {
+color = 0;
 glyphname = ruble;
-lastChange = "2021-07-30 13:09:52 +0000";
+lastChange = "2021-08-05 15:27:03 +0000";
 layers = (
 {
 components = (
@@ -22590,8 +22607,9 @@ width = 455;
 unicode = 20BD;
 },
 {
+color = 0;
 glyphname = rupeeIndian;
-lastChange = "2021-08-05 00:46:28 +0000";
+lastChange = "2021-08-05 15:27:03 +0000";
 layers = (
 {
 components = (
@@ -22697,8 +22715,9 @@ width = 579;
 unicode = 20B9;
 },
 {
+color = 0;
 glyphname = sterling;
-lastChange = "2021-08-05 00:46:28 +0000";
+lastChange = "2021-08-05 15:27:03 +0000";
 layers = (
 {
 layerId = "5758FC1C-8DB2-4040-8B3F-38A5D3FE42F4";
@@ -22844,8 +22863,9 @@ note = sterling;
 unicode = 00A3;
 },
 {
+color = 0;
 glyphname = won;
-lastChange = "2021-07-30 13:09:52 +0000";
+lastChange = "2021-08-05 15:27:03 +0000";
 layers = (
 {
 components = (
@@ -30493,5 +30513,5 @@ manufacturer = "Robert E. Leuschke";
 manufacturerURL = www.typesetit.com;
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 3;
+versionMinor = 4;
 }
