@@ -1,7 +1,7 @@
 
-# Explora
+# Bonheur Royale
 
-Explora is  beautiful calligraphic complete with swash forms. It's light and delicate strokes contribute to its elegance. In addition, it features one of the few fonts that contains the entire Cherokee Nation language glyphs.
+It's casual and contemporary. BonheurRoyale has the look of a calligraphic hand with a slightly brush feel. The contrast of this and thin strokes gives this clean style a legible quality.
 
 ![Sample Image](Documentation/image1.png)
 
